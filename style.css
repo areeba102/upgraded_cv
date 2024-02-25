@@ -1,0 +1,75 @@
+.info{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(185,179,175);
+    font-style: italic;}
+    
+
+h1{
+    color: rgb(228, 134, 27);
+}
+.edu{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: antiquewhite;
+    font-style: italic;
+    text-shadow: 2px 2px 7px #111;}
+
+.sk{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: burlywood;
+    font-style: italic;
+    text-shadow: 3px 3px 7px #111111;}
+
+.experience{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(163, 159, 199);
+    font-style: italic;
+    text-shadow: 2px 2px 7px #111111;}
+
+.ho{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(236, 205, 186);
+    font-style: italic;
+    text-shadow: 2px 2px 7px #111111;}
+
+.all{
+    background-color: rgb(121, 156, 231);
+    margin: 3cap;
+padding: 100px;
+border: 1cap;
+border-color: rgb(199, 174, 34);
+}
+button {
+     background-color: rgb(57, 3, 119);
+     color: white;
+     hove
+
+}
+button :hover{
+    background-color: rgb(49, 88, 218);
+    color: white;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
